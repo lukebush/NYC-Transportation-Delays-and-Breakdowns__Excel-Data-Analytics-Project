@@ -6,10 +6,4 @@ The goal is to demonstrate data-cleaning, analysis, and visualization skills in 
 Dataset & Context:
 Dataset adapted from New York City MTA service delay and breakdown records, provided by AnalystBuilder for educational purposes in the “Excel for Data Analytics” course.
 
-Features/columns:
-  -Date / Time
-  -Line or Route (e.g. subway, bus)
-  -Delay duration
-  -Delay cause or type (breakdown, mechanical, signal, weather, etc.)
-  -Location/station
-  -Other metadata (day of week, service operator)
+Features/columns: Date/time, line or route, delay duration, delay cause or type (breakdown, mechanical, signal, weather, etc.), location/station, and other metadata (day of week, service operator).
